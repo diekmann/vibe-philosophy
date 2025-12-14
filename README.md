@@ -35,6 +35,10 @@ verstieß, riskierte nicht nur Ärger mit dem Orden, sondern vielleicht sogar se
 
 ---
 
+Quelle: https://archive.org/stream/PHILOSOPHIEDESABENDLANDESVONBERTRANDRUSSEL/PHILOSOPHIE%20DES%20ABENDLANDES%20VON%20BERTRAND%20RUSSEL_djvu.txt
+
+---
+
 LLM Tarce
 
 mistral-large-2512

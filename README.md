@@ -1,4 +1,4 @@
-# Vibe Philosophy
+# Vibe Philosophy 🫘
 
 **Was sagt die Philosophie zum Thema Bohnen?**
 
@@ -32,6 +32,12 @@ keinen **Platonismus** (Ideenlehre!) oder **christliche Theologie** (Gott als Ma
 **Fazit**: Für Pythagoras waren Bohnen kein Lifestyle-Trend (wie heute Veganismus), sondern ein **metaphysisches No-Go**. Wer gegen die Regel 
 verstieß, riskierte nicht nur Ärger mit dem Orden, sondern vielleicht sogar seine **Seelenrettung**. Heavy stuff, Digga! 🌱🚫
 
+
+---
+
+LLM Tarce
+
+mistral-large-2512
 
 ```data
 Was sagt die Philosophie zum Thema Bohnen?
